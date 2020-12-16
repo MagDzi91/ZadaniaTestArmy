@@ -24,8 +24,3 @@ public class ChristmasTree {
 }
 
 
-git as
-
-
-
-
